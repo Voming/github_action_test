@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-lastest
     steps: 
     - name: 헬로월드 출력!
-      run: echo hello World!
+      run: echo hello World!!
